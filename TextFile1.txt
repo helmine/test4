@@ -6,5 +6,6 @@ Edit 2: branch1 edit
 
 
 
+Edit in branch2
 
-conflict here
+Edit in branch1
